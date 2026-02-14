@@ -18,3 +18,6 @@
 3.  Resize and position your hitboxes as needed. 
     * *Note: Ensure the elements are named "hitbox" in the outliner.*
 4.  Go to **File > Export > Export Hytale Hitbox (.json)**
+
+## Install
+Download de js
