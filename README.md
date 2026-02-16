@@ -1,6 +1,6 @@
 # Hytale Hitbox Helper
 
-**Hytale Hitbox Helper** is a dedicated plugin for Blockbench designed to streamline the creation and export of collision hitboxes for Hytale.
+**Hytale Hitbox Helper** is a dedicated plugin for Blockbench designed to streamline the creation and export of collision hitboxes for Hytale. It can have errors, please open and issue if you find one
 
 ## Features
 
