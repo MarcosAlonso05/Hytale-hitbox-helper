@@ -11,6 +11,8 @@
     * Only exports elements named "hitbox" (case insensitive).
     * Automatic coordinate conversion (32 BB units = 1.0 Hytale unit).
 
+* **References:** You can import other reference block mode models; they do not interfere with the hitbox.
+
 ## How to Use
 
 1.  Go to **File > New** and select **Hytale Hitbox**.
